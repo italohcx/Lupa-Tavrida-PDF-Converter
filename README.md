@@ -29,8 +29,8 @@ Antes de começar, verifique os seguintes requisitos:
 
 ## 📁 Files
 
-itextpdf-5.5.10.jar.
-Arquivo PDF de configuração
+* itextpdf-5.5.10.jar.
+* Arquivo PDF de configuração
 
 # 🚴 Funções:
 

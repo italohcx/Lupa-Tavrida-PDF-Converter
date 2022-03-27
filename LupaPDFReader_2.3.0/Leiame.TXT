@@ -1,0 +1,18 @@
+========================
+BUILD OUTPUT DESCRIPTION
+========================
+
+Software criado na empresa Lupa Tecnologia e Sistemas LTDA(2018).
+
+Atravez da API Itext, o software lê determinados parâmetros de um ou vários documentos no formato PDF, e os insere em um cabeçalho já definido, no qual o mesmo é salvo em um documento no formato txt padronizado específicamente para ser ultilizado no equipamento Altere V3 (Tavrida).
+
+
+
+========================
+  FUNÇÕES
+========================
+
+
+1- Caixa arquivo único desmarcada é possivel ler um ou vários arquivos PDF em que os parâmetros estejam em uma página por arquivo
+
+2- Caixa arquivo único marcada permite ler um único arquivo PDF, o qual contenha vários parâmetro (mesmo que o parametro esteja particionado em várias páginas).
